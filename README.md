@@ -1,7 +1,4 @@
 **Welcome to the GitHub page for Melody Mod! Here I will log all recent changes, updates and new features.**
-
-**(Jan 22): If you encounter any issues using the 1.8.9 version I stronly advise using this version instead: https://www.youtube.com/watch?v=3bzPhDI_c8A (Supports Minecraft Launcher)**
-
 ______________________________________________
 **What's new in V4?**
 ______________________________________________
@@ -53,4 +50,3 @@ _____________________________________________
 - Q: What songs are supported? 
 > A: Every song! Including the difficult ones such as Through the Campfire, Pachelbel ect, just ensure you use the correct modes provided (easy, hard..)
 _____________________________________________
-- (2024/01/22) Minor changes.
